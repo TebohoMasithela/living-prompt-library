@@ -1,0 +1,5 @@
+Prompt ID,Name,Category,AI Models,Last Updated,Owner,Version,Tags
+cs001,Polite Customer Inquiry Handling,Customer Support,"GPT-4o, Claude 4",2025-07-20,Your Name,1.1,"customer support, polite tone"
+sum001,Concise Bullet Point Summarization,Summarization,"GPT-4o, Claude 4",2025-07-15,Your Name,1.1,"summarization, bullet points"
+res_assist_001,Academic Article Summarization and Insight Extraction,Research Assistant,"GPT-4o, Claude 4",2025-08-10,Your Name,1.0,"research, summarization, academic"
+cs_tech_002,Troubleshooting Wi-Fi Connectivity Issues,Customer Support,"GPT-4o, Claude 4",2025-08-10,Your Name,1.0,"support, tech troubleshooting"
